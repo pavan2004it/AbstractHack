@@ -11,6 +11,7 @@ public class Main {
         new_novel.setTitle(title);
         System.out.println("The title is: "+new_novel.getTitle());
         System.out.println("Hello world");
+        System.out.println("Hi , From Java");
         sc.close();
     }
 }
